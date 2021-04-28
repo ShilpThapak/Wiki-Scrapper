@@ -1,6 +1,6 @@
 # Wiki-Scrapper
 
-Wiki Scrapper is created to extract data from wikipedia using Media Wiki API, Wikipedia Library and Wikipedia-API Library.
+Wiki Scrapper is created to extract data from Wikipedia using Media Wiki API, Wikipedia Library, and Wikipedia-API Library.
 
 ## Walkthrough
 - First I created a list of all the queries to search wikipedia. 
